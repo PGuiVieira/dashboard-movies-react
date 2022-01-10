@@ -13,9 +13,6 @@ interface ContentProps {
   }>
 }
 
-
-
-
 export function Content(props: ContentProps) {
   return (
     <main>
